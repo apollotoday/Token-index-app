@@ -38,7 +38,7 @@ A fast and scalable backend service for indexing new and updated tokens on the S
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/vvizardev/coin-indexing-app-backend.git
+git clone https://github.com/apollotoday/coin-indexing-app-backend.git
 ```
 
 ### Install Dependencies
@@ -177,11 +177,11 @@ PRs welcome! Please open an issue first to discuss any major changes.
 
 ## 📄 License
 
-MIT © 2025 @vvizardev
+MIT © 2025 @apolllotoday
 
 ---
 
 ## 📬 Contact
 
-- Telegram: [@vvizardev](https://t.me/vvizardev)
-- Twitter: [@wizardev_sol](https://x.com/wizardev_sol)
+- Telegram: [@web3_maxim](https://t.me/web3_maxim)
+
